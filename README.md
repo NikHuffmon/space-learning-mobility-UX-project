@@ -36,7 +36,7 @@ npm run preview
 ```
 
 The build is placed in `dist`. Do not double-click `index.html` to run the source project; use the development server. Do not commit `node_modules` or `dist`.
-
+<!-- 
 ## 2. Publish on GitHub Pages (beginner route)
 
 These instructions use GitHub Desktop so you do not have to learn Git commands first.
@@ -128,3 +128,4 @@ Check all four routes and refresh a story URL. Try every marker and timeline num
 
 Official setup references: https://vite.dev/guide/static-deploy#github-pages and https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site.
 
+ -->
